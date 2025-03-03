@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjm2571%2Fhit-counter&count_bg=%23FFB1FF&title_bg=%23C894FF&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjm2571%2Fhit-counter&count_bg=%23FFB1FF&title_bg=%23C894FF&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 ---
@@ -17,10 +17,10 @@
 
 ## 📞 연락처
 <a href="mailto:pjm2571@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://velog.io/@pjm2571">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white">
 </a>
 
 ---
@@ -28,7 +28,7 @@
 ## ⚙️ 기술 스택
 
 ### 🔹 백엔드  
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-66BB6A?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20WebFlux-43A047?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Cloud-81C784?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Batch-4CAF50?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Event-388E3C?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Eureka%20Server%20&%20Client-2E7D32?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Feign-8BC34A?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Java%20Selenium-558B2F?style=flat-square&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/Jsoup-1A1A1A?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-7CB342?style=flat-square&logo=thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-2DB400?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20WebFlux-00ACC1?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Cloud-8E24AA?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Batch-FDD835?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Event-2DB400?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Eureka%20Server%20&%20Client-5C6BC0?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Feign-009688?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Java%20Selenium-C62828?style=flat-square&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/Jsoup-757575?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-9E9D24?style=flat-square&logo=thymeleaf&logoColor=white">
 
 ### 🔹 메시징 & 인증  
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/STOMP-009639?style=flat-square&logo=websocket&logoColor=white"> <img src="https://img.shields.io/badge/SSE-009639?style=flat-square&logo=websocket&logoColor=white"> <img src="https://img.shields.io/badge/Keycloak-000000?style=flat-square&logo=keycloak&logoColor=white">
@@ -40,9 +40,13 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
 ### 🔹 DevOps & 클라우드  
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20Route53-FF9900?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes [EKS] -326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20IAM-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20Route53-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"> 
 
-### 🔹 협업 & 버전 관리  
+### 🔹 협업 [커뮤니케이션]  
+<img src="https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+
+### 🔹 협업 [버전 관리]  
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/GitLab%20Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
 
 ### 🔹 테스트 & 기타  
@@ -53,12 +57,12 @@
 ## 📊 깃허브 통계
 
 <div style="display:flex; flex-direction:row;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=pjm2571&show_icons=true&theme=ambient_gradient&count_private=true" width="56%" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjm2571&layout=compact" width="38%" />
-    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pjm2571&show_icons=true&theme=ambient_gradient&count_private=true" width="56%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjm2571&layout=compact" width="38%" />
+  </a>
 </div>
 
 ---
