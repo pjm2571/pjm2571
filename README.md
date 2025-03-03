@@ -53,6 +53,13 @@
 <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white">
 
 ---
+## 📚 교육
+
+- CodeSquad Masters Java 백엔드 (24.01 ~ 24.08)
+- 현대오토에버 모빌리티 스쿨 웹/앱 과정 (24.08 ~ 25.02)
+
+
+---
 
 ## 📊 깃허브 통계
 
