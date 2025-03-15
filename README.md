@@ -12,6 +12,7 @@
 - **백엔드 개발자**로서 확장 가능하고 효율적인 시스템을 설계하는 것을 좋아합니다.  
 - 관심 분야: **시스템 설계, 마이크로서비스 아키텍처(MSA), 고성능 API 개발**  
 - 개발 관련 글을 **[Velog](https://velog.io/@pjm2571)** 에 기록하고 있습니다.
+- [My Resume](https://profuse-aftershave-ac6.notion.site/1abfca5223ab808f92cbeafcf8748da5?pvs=4)
 
 ---
 
